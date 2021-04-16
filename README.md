@@ -1,6 +1,9 @@
 # IoT_vibration_alert
  IoT based assistive vibration alert device
 
+![](images/logo.png)
+
+
 Hey all,
 	We have started working on this project on 10 April 2021. The device is being made to install in the library of NISH - National Institute of Speach and 
 Hearing, Kerala, India. The hardware setup will be installed on the surface of reading table and will be connected to the local network. The librarian whose mobile
