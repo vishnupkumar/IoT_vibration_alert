@@ -20,7 +20,7 @@ Works on first day:-
 
 Component listing
 block diagram 1 (transistor switch with separated GND)
-block diagram 2 (transistor switch with separated 5V)
+/nblock diagram 2 (transistor switch with separated 5V)
 Motor control logic development and testing
 ESP32 LED blinking
 ESP32 motor control
