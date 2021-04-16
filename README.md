@@ -16,14 +16,14 @@ phone is connected to the same network can control the device using the mobile a
 
 ![](images/blockdiagram.png)
 
-Works on first day:-
+Works on first day (10 April 2021):-
 
 Component listing
-block diagram 1 (transistor switch with separated GND)
-/nblock diagram 2 (transistor switch with separated 5V)
-Motor control logic development and testing
-ESP32 LED blinking
-ESP32 motor control
-ESP32 blynk app interface
-ESP32 blynk app motor control
+1. block diagram 1 (transistor switch with separated GND)
+2. block diagram 2 (transistor switch with separated 5V)
+3. Motor control logic development and testing
+4. ESP32 LED blinking
+5. ESP32 motor control
+6. ESP32 blynk app interface
+7. ESP32 blynk app motor control
 
