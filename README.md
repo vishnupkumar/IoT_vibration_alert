@@ -18,7 +18,6 @@ phone is connected to the same network can control the device using the mobile a
 
 Works on first day (10 April 2021):-
 
-Component listing
 1. block diagram 1 (transistor switch with separated GND)
 2. block diagram 2 (transistor switch with separated 5V)
 3. Motor control logic development and testing
@@ -27,3 +26,10 @@ Component listing
 6. ESP32 blynk app interface
 7. ESP32 blynk app motor control
 
+Works on second day (17 April 2021):-
+
+1. Implemented the project using NodeMCU
+2. Created an app on MIT appinventor
+3. Fabricated the power supply and regulator system
+
+![](images/second.jpeg)
