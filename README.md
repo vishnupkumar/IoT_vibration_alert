@@ -10,8 +10,6 @@ Hearing, Kerala, India. The hardware setup will be installed on the surface of r
 phone is connected to the same network can control the device using the mobile application. With the press of a button on the app, the device will vibrate for
 1 minute. The disabled people can sense this vibration and they can be alerted.
 	
-	We are working with the ESP32 development board and has conrolled the device using blynk app on 10 April 2021.
-	
 
 ![](images/blockdiagram.png)
 
