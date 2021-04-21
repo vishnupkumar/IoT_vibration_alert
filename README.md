@@ -1,7 +1,6 @@
 # IoT_vibration_alert
  IoT based assistive vibration alert device
 
-![](images/logo.png)
 
 
 Hey all,
